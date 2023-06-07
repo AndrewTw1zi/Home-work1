@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
       task1();
@@ -12,10 +11,9 @@ public class Main {
       System.out.println(i + " ");
       }
     }
-      System.out.println("this number is divided on 5");
+     System.out.println("this number is divided on 5");
   }
     public static void task2(){
-
         int f = 0;
         while(f <5)   {
             System.out.println("Hello ");
@@ -23,7 +21,6 @@ public class Main {
         }
     }
     public static void task3(){
-
         Scanner scanner = new Scanner(System.in);
         int value;
         do{
