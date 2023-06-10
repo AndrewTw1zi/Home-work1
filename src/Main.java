@@ -11,7 +11,7 @@ public class Main {
       System.out.println(i + " ");
       }
     }
-     System.out.println("this number is divided on 5");
+      System.out.println("this number is divided on 5");
   }
     public static void task2(){
         int f = 0;
